@@ -3,6 +3,7 @@ Utilizado o XAMP para executar o sistema.
 Foi utilizado phpAdmin.
 
 Criar as duas tabelas, segue abaixo os script's:
+CREATE DATABASE Kabum
 --
 -- Estrutura da tabela `user`
 --
